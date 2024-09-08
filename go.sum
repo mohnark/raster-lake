@@ -1,0 +1,6 @@
+github.com/TileDB-Inc/TileDB-Go v0.31.0 h1:dxaz4NvEHSlw/IedVe2i0n9OjbVvku7Kgr//rEEevB0=
+github.com/TileDB-Inc/TileDB-Go v0.31.0/go.mod h1:Lrs/upPea9DbllwvZtkd8m3xhLZO/Xg5wcV+Q2LLQUI=
+github.com/mattn/go-pointer v0.0.1 h1:n+XhsuGeVO6MEAp7xyEukFINEa+Quek5psIR/ylA6o0=
+github.com/mattn/go-pointer v0.0.1/go.mod h1:2zXcozF6qYGgmsG+SeTZz3oAbFLdD3OWqnUbNvJZAlc=
+go4.org/unsafe/assume-no-moving-gc v0.0.0-20230525183740-e7c30c78aeb2 h1:WJhcL4p+YeDxmZWg141nRm7XC8IDmhz7lk5GpadO1Sg=
+go4.org/unsafe/assume-no-moving-gc v0.0.0-20230525183740-e7c30c78aeb2/go.mod h1:FftLjUGFEDu5k8lt0ddY+HcrH/qU/0qk+H8j9/nTl3E=
